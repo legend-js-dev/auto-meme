@@ -1,2 +1,18 @@
-# auto-meme
-an auto meme bot for discord
+# auto meme Bot
+## This bot was made by legend-js, this doesnt need a any credits :D
+### Make sure to join The servers below:
+- [Dark Studios (dark codes)](https://discord.gg/devs)
+- [Developers Hub](https://discord.gg/avbmZBrDsk)
+#### Star the repo and fork it, Ty
+###### Things not to do:
+- Dont be dumb
+- dont copy paste or u will never learn
+##### Things to do:
+- star this repo
+- fork this repo
+- follow me
+- add your bot token in `config.json`
+- add Your channel ID in `config.json`
+- make videos on my projects
+- join devs Hub
+- join dark studios
