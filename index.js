@@ -5,7 +5,6 @@ const { Client } = require('discord.js');
 const Discord = require('discord.js');
 const { token, channelID } = require('./config.json');
 const got = require('got');
-//dont touch the credits or i will find you and u will have to commit die >:D
 const client = new Client({
 	disableMentions: 'everyone'
 });
@@ -35,7 +34,6 @@ console.log(`
 ╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝ ╚════╝ ╚══════╝
 `);
 console.log('-------------------------------------');
-//this took me some time so dont you dare remove credits, if u do remove credits then you will have copy right issues.
 client.on('ready', () => {
 	console.log(`[INFO]: Ready on client (${client.user.tag})`);
 	client.user.setActivity('auto-meme by legend :D', {
